@@ -1,0 +1,7 @@
+.citycontainer{
+    display: flex;
+}
+.citymain{
+    display: flex;
+    flex-direction: column;
+}

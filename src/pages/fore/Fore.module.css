@@ -1,0 +1,7 @@
+.forecontainer{
+    display: flex;
+}
+.foremain{
+    display: flex;
+    flex-direction: column;
+}
